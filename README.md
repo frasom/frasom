@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frank Sommer
 - I have worked in IT for many years and came to Linux via UNIX systems. Professionally active in the field of cloud systems, network and IT security
-- 👀 I’m interested in shell-scripts, C, Python ...
-- 🌱 I’m currently working at DRACOON a developer / provider of cloud services 
+- 👀 I’m interested in shell-scripts, C, Python, go, ...
+- 🌱 I’m currently working in the sales team at DRACOON a developer / provider of cloud services 
 - [Portrait at Rheinwerk Verlag](https://www.rheinwerk-verlag.de/autor/4199/)
 
 
